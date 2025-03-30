@@ -1,4 +1,4 @@
-package org.p11combinedforce.ansibleCD
+package org.unifiedDeploy.ansibleCD
 
 def call(String inventoryPath, String playbookPath) {
     stage("Ansible Execution") {
